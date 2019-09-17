@@ -1,0 +1,28 @@
+.comment .avatar {
+  width: 32px;
+  display: block;
+  margin-right: 6px;
+  position: relative;
+}
+
+.comment .content {
+  background-color: lightgrey;
+  border-radius: 18px;
+  box-sizing: border-box;
+  color: #1c1e21;
+  display: inline-block;
+  line-height: 16px;
+  margin-bottom: 16px;
+  padding: 8px;
+  width: 90%;
+  max-width: 100%;
+  word-wrap: break-word;
+  position: relative;
+  white-space: normal;
+  word-break: break-word;
+}
+
+.comment .content strong {
+  padding: 5px;
+  font-size: 0.9em;
+}

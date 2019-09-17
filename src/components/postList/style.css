@@ -1,0 +1,8 @@
+.post-list {
+  margin: auto;
+  width: 50%;
+  min-width: 460px;
+  padding: 10px;
+  margin-top: 40px;
+  overflow: auto;
+}
